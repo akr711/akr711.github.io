@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+h1 {
+    color: beige;
+    text-align: center;
+    }
+   
+
+.nowrap {
+    white-space: nowrap;
+}
+    
+table td{
+    padding: 20px 10px;
+}
+    
+table , td, th {
+	border-collapse: collapse;
+}
+td,{
+	padding: 3px;
+	width: 30px;
+	height: 25px;
+}
+
+.even {
+	background: #fbf8f0;
+}
+.odd {
+	background: #fefcf9;
+}
