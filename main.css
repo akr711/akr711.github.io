@@ -30,3 +30,5 @@ td,{
 .odd {
 	background: #fefcf9;
 }
+
+a:hover{background-color: #fcfcaa;}
