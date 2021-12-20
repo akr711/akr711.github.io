@@ -17,14 +17,14 @@ h1 {
 .container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .container div {
   background-color: royalblue;
   text-align: center;
   line-height: 100px;
-  width: 200px;
+  width: 220px;
   height: 100px;
   margin-bottom: 20px;
   border-radius: 10px;
